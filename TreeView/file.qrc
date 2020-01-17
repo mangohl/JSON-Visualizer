@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>demo.json</file>
+        <file>swagger.json</file>
+    </qresource>
+</RCC>
